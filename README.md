@@ -42,9 +42,5 @@ User → Streamlit UI → Webhook → n8n → AI Agent → Tools → Response
 
 ---
 
-## 📦 Setup Instructions
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/YOUR_USERNAME/n8n-personal-assistant.git
-cd n8n-personal-assistant
+
